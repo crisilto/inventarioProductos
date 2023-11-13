@@ -1,3 +1,5 @@
+package inventarioProductos;
+
 import java.util.Scanner;
 
 public class InventarioProductos {
